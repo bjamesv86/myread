@@ -1,0 +1,11 @@
+*{
+	padding: 0px;
+	margins: 0px;
+}
+
+#wrapper{
+	margin: 0px auto;
+	width: 800px;
+	background-color: #ccc;
+}
+
