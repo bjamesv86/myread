@@ -1,9 +1,11 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Under Construction</title>
+		<title>MyRead</title>
 	</head>
 	<body>
-		<h1>Under Construction Test</h1>
+		<div id="wrapper">
+			
+		</div>
 	</body>
 </html>
