@@ -7,7 +7,7 @@
 	<body>
 		<div id="wrapper">
 			<div id="header">
-				hello
+				
 			</div>
 		</div>
 	</body>
