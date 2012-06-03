@@ -6,7 +6,9 @@
 	</head>
 	<body>
 		<div id="wrapper">
-			sdf
+			<div id="header">
+				hello
+			</div>
 		</div>
 	</body>
 </html>

@@ -7,6 +7,10 @@
 	margin-left: auto;
 	margin-right: auto;
 	width: 960px;
-	background-color: #ccc;
 }
 
+#header{
+	width: 100%;
+	height: 65px;
+	background-color: #ccc;
+}
